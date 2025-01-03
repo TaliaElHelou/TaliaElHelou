@@ -52,7 +52,7 @@
 <br />
 
 ### Download:
-[![Download CV](https://img.shields.io/badge/Download-CV-blue)](https://github.com/TaliaElHelou/TaliaElHelou/raw/main/Talia El Helou - CV)
+[![Download CV](https://img.shields.io/badge/Download-CV-blue)](https://github.com/TaliaElHelou/TaliaElHelou/raw/main/Talia-El-Helou-CV)
 
 
 ---
